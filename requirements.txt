@@ -1,0 +1,11 @@
+Flask
+Flask-JWT-Extended
+python-dotenv
+
+FLask-restful
+Flask-cors
+Flask-MySQLdb
+Flask-OAuthlib
+Flask-HTTPAUTH
+Flask-SQLAlchemy
+SQLAlchemy
